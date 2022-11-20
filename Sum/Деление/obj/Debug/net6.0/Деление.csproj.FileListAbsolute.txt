@@ -1,0 +1,15 @@
+C:\Users\Dru\Desktop\C#_One Lessone\Sum\Деление\bin\Debug\net6.0\Деление.exe
+C:\Users\Dru\Desktop\C#_One Lessone\Sum\Деление\bin\Debug\net6.0\Деление.deps.json
+C:\Users\Dru\Desktop\C#_One Lessone\Sum\Деление\bin\Debug\net6.0\Деление.runtimeconfig.json
+C:\Users\Dru\Desktop\C#_One Lessone\Sum\Деление\bin\Debug\net6.0\Деление.dll
+C:\Users\Dru\Desktop\C#_One Lessone\Sum\Деление\bin\Debug\net6.0\Деление.pdb
+C:\Users\Dru\Desktop\C#_One Lessone\Sum\Деление\obj\Debug\net6.0\Деление.csproj.AssemblyReference.cache
+C:\Users\Dru\Desktop\C#_One Lessone\Sum\Деление\obj\Debug\net6.0\Деление.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dru\Desktop\C#_One Lessone\Sum\Деление\obj\Debug\net6.0\Деление.AssemblyInfoInputs.cache
+C:\Users\Dru\Desktop\C#_One Lessone\Sum\Деление\obj\Debug\net6.0\Деление.AssemblyInfo.cs
+C:\Users\Dru\Desktop\C#_One Lessone\Sum\Деление\obj\Debug\net6.0\Деление.csproj.CoreCompileInputs.cache
+C:\Users\Dru\Desktop\C#_One Lessone\Sum\Деление\obj\Debug\net6.0\Деление.dll
+C:\Users\Dru\Desktop\C#_One Lessone\Sum\Деление\obj\Debug\net6.0\refint\Деление.dll
+C:\Users\Dru\Desktop\C#_One Lessone\Sum\Деление\obj\Debug\net6.0\Деление.pdb
+C:\Users\Dru\Desktop\C#_One Lessone\Sum\Деление\obj\Debug\net6.0\Деление.genruntimeconfig.cache
+C:\Users\Dru\Desktop\C#_One Lessone\Sum\Деление\obj\Debug\net6.0\ref\Деление.dll
